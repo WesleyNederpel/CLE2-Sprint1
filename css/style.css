@@ -4,7 +4,7 @@ header {
     text-align: center;
     padding-top: 75px;
     padding-bottom: 30px;
-    background-image: url("/CLE 2/img/autodropbanner.png");
+    background-image: url("./autodropbanner.png");
     background-size: cover;
 }
 
